@@ -1,0 +1,6 @@
+C:\Users\Никита Пестов\Documents\Visual Studio 2015\Projects\Cem8\Kaspersky\Kaspersky\bin\Debug\Kaspersky.exe.config
+C:\Users\Никита Пестов\Documents\Visual Studio 2015\Projects\Cem8\Kaspersky\Kaspersky\bin\Debug\Kaspersky.exe
+C:\Users\Никита Пестов\Documents\Visual Studio 2015\Projects\Cem8\Kaspersky\Kaspersky\bin\Debug\Kaspersky.pdb
+C:\Users\Никита Пестов\Documents\Visual Studio 2015\Projects\Cem8\Kaspersky\Kaspersky\obj\Debug\Kaspersky.csprojResolveAssemblyReference.cache
+C:\Users\Никита Пестов\Documents\Visual Studio 2015\Projects\Cem8\Kaspersky\Kaspersky\obj\Debug\Kaspersky.exe
+C:\Users\Никита Пестов\Documents\Visual Studio 2015\Projects\Cem8\Kaspersky\Kaspersky\obj\Debug\Kaspersky.pdb
